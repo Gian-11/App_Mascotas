@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="nombreEj">El pepe</string>
+    <string name="imagen_perro">Image of a dog</string>
+    <string name="imagen_hueso">Image of a bone</string>
+    <string name="imagen_huesoGold">Image of a gold bone</string>
+    <string name="ejemplo_rating">5</string>
+    <string name="menu_contact">Contact</string>
+    <string name="menu_about">About</string>
+    <string name="rating">Rating</string>
+    <string name="activity2_title">Pets liked</string>
+    <string name="mensaje_snackbar">You\'ve liked this pet</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="acitivty_vertical_margin">16dp</dimen>
+    <dimen name="altura_hueso">33dp</dimen>
+    <dimen name="anchura_hueso">49dp</dimen>
+    <dimen name="texto_nombre_rating">13sp</dimen>
+</resources>
