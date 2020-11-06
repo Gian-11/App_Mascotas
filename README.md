@@ -7,4 +7,5 @@ Tarea para curso de Coursera "Desarrollo de aplicaciones con Android" semana 3.
 
 
 
-*Hay una línea mal en /values-en/strings.xml, debería ser <string name="activity2_title">Liked Pets</string.*
+*Hay una línea mal en /values-en/strings.xml, debería ser:
+<string name="activity2_title">Liked Pets</string  *  
