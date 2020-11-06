@@ -9,4 +9,4 @@ Tarea para curso de Coursera "Desarrollo de aplicaciones con Android" semana 3.
 
 *Hay una línea mal en /values-en/strings.xml, debería ser:*  
 
-name="activity2_title">Liked Pets
+name="activity2_title">Liked pets
